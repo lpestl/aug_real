@@ -1,0 +1,21 @@
+<!-- Настройки приложения -->
+<settings>
+    <!-- 0 - FullScreen, 1 - Windowe mode -->
+    <window width="800" height="600">1</window>
+    <debug>YES</debug>
+    <camera>0</camera>
+    <models>
+        <model marker="0">
+            <url>bin\models\dino5.3ds</url>
+            <scale>0.4</scale>
+            <rotation x="90" y="0" z="0" />
+            <offset x="0" y="0" z="0" />
+            <light x="100" y="100" z="100" />
+            <light x="-100" y="-100" z="100" />
+            <info>bin\models\info.png</info>
+        </model>
+    </models>
+    <threshold>150</threshold>
+    <!-- Оптимизация еще не работает. Параметр оставлять NO -->
+    <optimization>NO</optimization>
+</settings>
