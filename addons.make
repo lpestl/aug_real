@@ -1,0 +1,10 @@
+ofx3DModelLoader
+ofxAssimpModelLoader
+ofxGui
+ofxOpenCv
+ofxXmlSettings
+ofxARtoolkitPlus
+ofxCv
+ofxTrueTypeFontUC
+ofxTweener
+ofxUI
